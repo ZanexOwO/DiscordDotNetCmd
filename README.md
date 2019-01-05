@@ -1,10 +1,11 @@
-# DiscordDotNetCmd
+# Discord .Net Bot Commands
 
 # Zanex Bot Commands.
 A Multi-purpose Discord Bot Made using .NetCore
 
 ### Commands
 > Embed, Serverinfo
+I will add all the command names to this after i completed adding them here.
 
 ## Authors
 * [**Zanex**](https://github.com/ZanexOwO)
