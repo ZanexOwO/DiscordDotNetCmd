@@ -14,6 +14,8 @@ A Multi-purpose Discord Bot Made using .NetCore
 * [Discord .NET](https://github.com/RogueException/Discord.Net) - Discord API Wrapper 
 * [Discord Addons Interactive](https://www.nuget.org/packages/Discord.Addons.Interactive/)
   PM2> Install-Package Discord.Addons.Interactive -Version 1.0.1
+> [Discord Addons Interactive](https://www.nuget.org/packages/Discord.Addons.Interactive/) **PM2> Install-Package Discord.Addons.Interactive -Version 1.0.1**
+
 
 ## Libaries Used:
 * [AutoMapper]()
