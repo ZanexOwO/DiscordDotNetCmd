@@ -11,7 +11,7 @@ A Multi-purpose Discord Bot Made using .NetCore
 
 ## Built Using:
 > [.NET Core 2.0](https://docs.microsoft.com/en-us/dotnet/core/) -
-* [Discord .NET](https://github.com/RogueException/Discord.Net) -
+>* [Discord .NET](https://github.com/RogueException/Discord.Net) -
 **PM> Install-Package Discord.Net -Version 2.0.1**
 * [Discord Addons Interactive](https://www.nuget.org/packages/Discord.Addons.Interactive/) -
 **PM> Install-Package Discord.Addons.Interactive -Version 1.0.1**
